@@ -1,4 +1,4 @@
-# quick-commerce-fabric-pipeline
+# Quick Commerce Data Pipeline (MySQL + MongoDB + Fabric + Power BI)
 Built an end-to-end data pipeline using MySQL and MongoDB as data sources, processed using Python (Pandas) in VS Code, and visualized using Microsoft Fabric (Lakehouse + Power BI).
 
 ##  Architecture
