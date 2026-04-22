@@ -1,20 +1,21 @@
 # quick-commerce-fabric-pipeline
 Built an end-to-end data pipeline using MySQL and MongoDB as data sources, processed using Python (Pandas) in VS Code, and visualized using Microsoft Fabric (Lakehouse + Power BI).
 
-#Architecture
-MySQL (Orders) + MongoDB (Inventory)
-↓
-Data Extraction (Python - VS Code)
-↓
-Data Transformation (Pandas - Silver Layer)
-↓
-Gold Layer (Clean Aggregated Data)
-↓
-Microsoft Fabric Lakehouse (Delta Tables)
-↓
-Semantic Model
-↓
-Power BI Dashboard
+##  Architecture
+
+MySQL (Orders) + MongoDB (Inventory)  
+↓  
+Data Extraction (Python - VS Code)  
+↓  
+Data Transformation (Pandas - Silver Layer)  
+↓  
+Gold Layer (Clean Aggregated Data)  
+↓  
+Microsoft Fabric Lakehouse (Delta Tables)  
+↓  
+Semantic Model  
+↓  
+Power BI Dashboard  
 
 # Tech Stack
 	•	MySQL (Batch Orders Data)
