@@ -16,7 +16,7 @@ Semantic Model
 ↓
 Power BI Dashboard
 
-#Tech Stack
+# Tech Stack
 	•	MySQL (Batch Orders Data)
 	•	MongoDB (Inventory Data)
 	•	Python (Pandas - Data Processing)
@@ -24,7 +24,7 @@ Power BI Dashboard
 	•	Power BI (Visualization)
 	•	GitHub
 
-#Project Structure
+# Project Structure
 quick-commerce-fabric-pipeline/
 │
 ├── ingestion/
@@ -34,13 +34,13 @@ quick-commerce-fabric-pipeline/
 ├── visualization/
 └── README.md
 
-#Use Cases
+# Use Cases
 	•	Orders trend analysis
 	•	Top selling products
 	•	Warehouse-level quantity analysis
 	•	Revenue insights
 
-#Data Flow (What I Did)
+# Data Flow (What I Did)
 	1.	Loaded raw data into MySQL and MongoDB
 	2.	Extracted data using Python in VS Code
 	3.	Performed transformations using Pandas (Silver Layer)
@@ -50,7 +50,7 @@ quick-commerce-fabric-pipeline/
 	7.	Built Semantic Model in Fabric
 	8.	Developed Power BI Dashboard
 
-#Result
+# Result
 	•	Built end-to-end batch data pipeline
 	•	Created Delta tables in Fabric Lakehouse
 	•	Designed semantic model for analytics
